@@ -3,9 +3,9 @@
 
 Downloading and preparing regional U.K. statistics provided by the Office of National Statistics (ONS).
 
-## TO DO:
-    - [x] Extract relevant worksheets from ONS Excel data and save as csv files
-    - [x] Convert ESRI shapefile from the Ordnance Survey into GeoDataFrame object and save as csv file
+## Roadmap:
+- [x] Extract relevant worksheets from ONS Excel data and save as csv files
+- [x] Convert ESRI shapefile from the Ordnance Survey into GeoDataFrame object and save as csv file
 
 ## Data Sources:
 - Multi-factor productivity estimates (7th July 2020) (https://www.ons.gov.uk/economy/economicoutputandproductivity/productivitymeasures/datasets/multifactorproductivityexperimentalestimatesreferencetables)
